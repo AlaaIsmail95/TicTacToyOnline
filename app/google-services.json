@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233213810932",
+    "firebase_url": "https://tictactoyonline-9bcf9.firebaseio.com",
+    "project_id": "tictactoyonline-9bcf9",
+    "storage_bucket": "tictactoyonline-9bcf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233213810932:android:ea606eaf3d69b65e",
+        "android_client_info": {
+          "package_name": "com.example.alaaismail.tictactoyonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233213810932-dc0t92dvf7isrrlq27tpvc57vj3k8722.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alaaismail.tictactoyonline",
+            "certificate_hash": "cc60a12cbea29df00ea844b2c5df9ef3100fad73"
+          }
+        },
+        {
+          "client_id": "233213810932-35er8uie04iuhkmci2udovfkkrpcoens.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfpATtzzhsHV4tV-Gy2CZ_BBcuQvc_90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233213810932-35er8uie04iuhkmci2udovfkkrpcoens.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
